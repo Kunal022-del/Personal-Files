@@ -1,0 +1,4 @@
+Windows Powershell:
+irm https://get.activated.win I iex
+Google :kunal1234@@
+Jeemain:Sonu@123

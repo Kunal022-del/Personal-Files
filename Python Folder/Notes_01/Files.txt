@@ -1,0 +1,7 @@
+### Notes:
+# r:open for reading
+# w :open for writig
+# a :open for appending
+# + :open for updating
+#'rb' will open for read in binarry mode..
+#'rt' for will open for read in text mode..
